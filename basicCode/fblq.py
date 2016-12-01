@@ -8,3 +8,4 @@ while b < 10 :
     a,b = b,a+b
 print (basicCode.STRING1)
 print (basicCode.INT1)
+print(basicCode.FLOAT1)
